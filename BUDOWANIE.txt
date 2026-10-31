@@ -1,0 +1,2 @@
+OPCJA A (Windows): zainstaluj JDK 21 + Maven, kliknij dwukrotnie build.bat -> jar trafi na pulpit.
+OPCJA B (bez instalacji): wrzuc projekt na GitHub (z folderem .github), zakladka Actions -> Build -> Artifacts -> Smigloeventowki.

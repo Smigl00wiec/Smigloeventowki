@@ -1,0 +1,13 @@
+name: Smigloeventowki
+version: '1.0'
+main: pl.smigloeve.Smigloeventowki
+api-version: '1.21'
+description: Eventowki FNAF - Smigloeve
+commands:
+  smigloeve:
+    description: Komenda glowna Smigloeventowek
+    usage: /smigloeve <gui|editgui|region|resetuj>
+permissions:
+  smigloeve.admin:
+    description: Dostep do komend /smigloeve
+    default: op
